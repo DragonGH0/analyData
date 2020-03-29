@@ -1,8 +1,7 @@
-# analyData
-Learning np/pd/matplotlib
-----------------------------
+# analyData:
+##### Learning np/pd/matplotlib
+-----------------------
 ## Mission One:
-
 **1. 目的：分析湖北省 1-25 ～ 3-18 的疫情数据**
   1. 人数统计（确诊 死亡 治愈）
   2. 变化统计（确诊 死亡 治愈）
@@ -19,7 +18,7 @@ Learning np/pd/matplotlib
   - basic-df.ipynb
   - 生成文件：basic.csv
 
-  3. 数据分析表：
+  3. 获取数据分析表：
   - analy_df1.ipynb
   - 生成文件：df1.csv
 
